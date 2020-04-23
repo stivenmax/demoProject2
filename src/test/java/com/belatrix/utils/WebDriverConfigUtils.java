@@ -166,7 +166,7 @@ public class WebDriverConfigUtils implements Serializable {
 
 		try {
 			String txtUrl = "http://" + hosts[0] + ":" + port + "/wd/hub";
-			URL url = new URL(txtUrl);
+			URL url = new URL("http://192.168.0.22:4444/wd/hub");
 			driver = new CustomRemoteWebDriver(url, capabilities);
 		} catch (MalformedURLException me) {
 			LOGGER.error("createDriverForRemoteExecution()--> Error: [{}]",

@@ -2,52 +2,52 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="29645" started-at="2020-04-16T18:41:23Z" finished-at="2020-04-16T18:41:52Z">
+  <suite name="Default suite" duration-ms="106869" started-at="2020-04-23T01:43:44Z" finished-at="2020-04-23T01:45:30Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="29645" started-at="2020-04-16T18:41:23Z" finished-at="2020-04-16T18:41:52Z">
+    <test name="Default test" duration-ms="106869" started-at="2020-04-23T01:43:44Z" finished-at="2020-04-23T01:45:30Z">
       <class name="com.AutomationTalks.demoProject2.TestClass1">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="beforeClass" is-config="true" duration-ms="7097" started-at="2020-04-16T18:41:23Z" finished-at="2020-04-16T18:41:30Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="beforeClass" is-config="true" duration-ms="16933" started-at="2020-04-23T01:43:44Z" finished-at="2020-04-23T01:44:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="test1" duration-ms="4656" started-at="2020-04-16T18:41:30Z" finished-at="2020-04-16T18:41:34Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="test1" duration-ms="13946" started-at="2020-04-23T01:44:01Z" finished-at="2020-04-23T01:44:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="quit" is-config="true" duration-ms="850" started-at="2020-04-16T18:41:34Z" finished-at="2020-04-16T18:41:35Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="quit" is-config="true" duration-ms="1431" started-at="2020-04-23T01:44:15Z" finished-at="2020-04-23T01:44:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="beforeClass" is-config="true" duration-ms="5431" started-at="2020-04-16T18:41:35Z" finished-at="2020-04-16T18:41:41Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="beforeClass" is-config="true" duration-ms="12070" started-at="2020-04-23T01:44:16Z" finished-at="2020-04-23T01:44:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="test2" duration-ms="2116" started-at="2020-04-16T18:41:41Z" finished-at="2020-04-16T18:41:43Z">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="test2" duration-ms="8574" started-at="2020-04-23T01:44:28Z" finished-at="2020-04-23T01:44:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="quit" is-config="true" duration-ms="716" started-at="2020-04-16T18:41:43Z" finished-at="2020-04-16T18:41:43Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="quit" is-config="true" duration-ms="3704" started-at="2020-04-23T01:44:37Z" finished-at="2020-04-23T01:44:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="beforeClass" is-config="true" duration-ms="5275" started-at="2020-04-16T18:41:43Z" finished-at="2020-04-16T18:41:49Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="beforeClass" is-config="true" duration-ms="18508" started-at="2020-04-23T01:44:40Z" finished-at="2020-04-23T01:44:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="test3" duration-ms="2659" started-at="2020-04-16T18:41:49Z" finished-at="2020-04-16T18:41:51Z">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="test3" duration-ms="28459" started-at="2020-04-23T01:44:59Z" finished-at="2020-04-23T01:45:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="quit" is-config="true" duration-ms="796" started-at="2020-04-16T18:41:51Z" finished-at="2020-04-16T18:41:52Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="quit" is-config="true" duration-ms="3077" started-at="2020-04-23T01:45:27Z" finished-at="2020-04-23T01:45:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@184f6be2]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-16T18:41:52Z" finished-at="2020-04-16T18:41:52Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.AutomationTalks.demoProject2.TestClass1@35047d03]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-04-23T01:45:30Z" finished-at="2020-04-23T01:45:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.AutomationTalks.demoProject2.TestClass1 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

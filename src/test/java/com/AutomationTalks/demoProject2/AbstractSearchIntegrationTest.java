@@ -53,7 +53,8 @@ public class AbstractSearchIntegrationTest {
 	private String remoteHost = "";
 
 	/** The remote hosts to use. Default local. */
-	private String executionType = "local";
+	//private String executionType = "local";
+	private String executionType = "remote";
 
 	/** The browser to use. Defaults to firefox */
 	private String browser = "CHROME";
